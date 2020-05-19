@@ -1,0 +1,3 @@
+[submodule "sub_mod"]
+	path = sub_mod
+	url = https://github.com/behao/sub_mod.git
